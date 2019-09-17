@@ -8,25 +8,25 @@ var myName = "Shane"
 
 //Create a variable called myAge that is a number data type
 
-//Code here
+var myAge = 25
 
 //////////////////PROBLEM 3////////////////////
 
 //Create a variable called lovesCode that is a boolean data type
 
-//Code here
+var lovesCode = true 
 
 //////////////////PROBLEM 4////////////////////
 
 //Create a variable called greatestFear that is undefined because we fear nothing
 
-//Code here
+var greatestFear = 
 
 //////////////////PROBLEM 5////////////////////
 
 //Create a variable called devMountainGoal that is null because we are just starting out
 
-//Code here
+var devMountainGoal = null
 
 //////////////////PROBLEM 6////////////////////
 
